@@ -1,1 +1,1 @@
-# TrainingDemo BAS
+# TrainingDemo BAS trainig
